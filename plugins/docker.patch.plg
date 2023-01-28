@@ -6,7 +6,7 @@
 <!ENTITY github "Squidly271/docker.patch">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/&github;/master/plugins/&name;.plg">
 ]>
-<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2022/01/how-to-sew-on-a-patch_1-e1642544715807.jpg" min="6.11.5" max="6.11.5" support="https://forums.unraid.net/topic/134016-fix-to-a-small-issue-with-updating-oci-docker-images/">
+<PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" icon="bug" min="6.11.5" max="6.11.5" support="https://forums.unraid.net/topic/134016-fix-to-a-small-issue-with-updating-oci-docker-images/">
   <CHANGES>
 ###2023.01.28
 - Initial Release
